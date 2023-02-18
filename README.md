@@ -1,9 +1,9 @@
 # WhatsApp-Clone
-Whatsapp - clone using MERN
+Whatsapp - clone using MERN\n
 
-M = MongoDB
-E = ExpressJS
-R = ReactJS
+M = MongoDB\n
+E = ExpressJS\n
+R = ReactJS\n
 N = NodeJS
 
 https://beautiful-horse-3493d6.netlify.app/
